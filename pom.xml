@@ -112,6 +112,26 @@
 			<version>5.0.2.Final</version>
 		</dependency>
 		
+		<!-- commons -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-beanutils</groupId>
+			<artifactId>commons-beanutils</artifactId>
+			<version>1.9.2</version>
+		</dependency>
+		
+		<!-- pagseguro -->
+		<dependency>
+			<groupId>pagseguro-api</groupId>
+			<artifactId>pagseguro-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
 	</dependencies>
 
 	<build>
